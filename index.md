@@ -9,7 +9,7 @@ This project is an end-to-end data pipeline that ingests NFL game data from ESPN
 <img src="images/Screenshot 2026-02-03 at 15.04.34.png?raw=true"/> <img src="images/Screenshot 2026-02-03 at 15.00.40.png?raw=true"/> <img src="images/Screenshot 2026-02-03 at 14.57.41.png?raw=true"/>
 
 
-[View Code on Github](https://)
+[View Code on Github](https://github.com/michaelbowen0/nfl-data-pipeline)
 
 ---
 
