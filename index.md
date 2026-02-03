@@ -6,6 +6,8 @@
 
 This project is an end-to-end data pipeline that ingests NFL game data from ESPN's API, processes 815+ games across three seasons through an ETL pipeline, and stores the data in a DuckDB analytics database using a star schema design. When the standings API failed, I calculated standings directly from raw game results, demonstrating problem-solving and data engineering fundamentals. The pipeline includes comprehensive data quality validation and delivers insights through an interactive Streamlit dashboard with team performance analytics, player statistics, and playoff brackets. This showcases my skills in API integration, ETL development, SQL database design, data transformation with Python/Pandas, and building production-ready data pipelines with proper error handling and documentation.
 
+<img src="images/Screenshot 2026-02-03 at 15.04.34.png?raw=true"/ <img src="images/Screenshot 2026-02-03 at 15.00.40.png?raw=true"/ <img src="images/Screenshot 2026-02-03 at 14.57.41.png?raw=true"/
+
 [View Code on Github](https://)
 
 ---
