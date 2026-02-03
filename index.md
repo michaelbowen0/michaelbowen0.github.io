@@ -13,6 +13,10 @@ This project is an end-to-end data pipeline that ingests NFL game data from ESPN
 
 ---
 
+### Customer Churn Modelling
+
+
+
 ### Detecting False Correlations in Time Series Data
 
 Time Series Data makes up more than 75% of the data the general public consumes on a daily basis. This project, the Dissertation I submitted for my Masters Degree, firstly aims to determine whether time series data contains correlations by default, and then attempts to find a way of detecting false correlations in Time Series Data.
