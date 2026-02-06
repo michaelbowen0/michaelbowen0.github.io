@@ -15,7 +15,11 @@ This project is an end-to-end data pipeline that ingests NFL game data from ESPN
 
 ### Customer Churn Modelling
 
+This end to end customer churn prediction project analyzes 7,043 telecommunications customers using SQL for data extraction, Python for advanced feature engineering (creating 8 domain-informed features), and machine learning to build a production ready XGBoost classifier achieving 70%+ ROC-AUC score. The project demonstrates systematic model comparison across 5 algorithms, hyperparameter tuning with GridSearchCV, and proper handling of class imbalance through weighted training and stratified sampling. Results translate to actionable business insights with ROI analysis, identifying tenure and contract type as primary churn drivers and recommending targeted retention strategies for high-risk customer segments.
 
+<img src="images/Churn_Model_Comp.png?raw=true"/> <img src="images/churn_BI.png?raw=true"/> <img src="images/churn_ROCcurve.png?raw=true"/>
+
+[View Code on Github](https://github.com/michaelbowen0/Telco_Churn)
 
 ### Detecting False Correlations in Time Series Data
 
