@@ -2,6 +2,16 @@
 
 ---
 
+### Customer Churn Modelling
+
+This end to end customer churn prediction project analyzes 7,043 telecommunications customers using SQL for data extraction, Python for advanced feature engineering (creating 8 domain-informed features), and machine learning to build a production ready XGBoost classifier achieving 70%+ ROC-AUC score. The project demonstrates systematic model comparison across 5 algorithms, hyperparameter tuning with GridSearchCV, and proper handling of class imbalance through weighted training and stratified sampling. Results translate to actionable business insights with ROI analysis, identifying tenure and contract type as primary churn drivers and recommending targeted retention strategies for high-risk customer segments.
+
+<img src="images/Churn_Model_Comp.png?raw=true"/> <img src="images/churn_BI.png?raw=true"/> <img src="images/churn_ROCcurve.png?raw=true"/>
+
+[View Code on Github](https://github.com/michaelbowen0/Telco_Churn)
+
+---
+
 ### NFL Analytics Pipeline with ETL & Interactive Dashboard
 
 This project is an end-to-end data pipeline that ingests NFL game data from ESPN's API, processes 815+ games across three seasons through an ETL pipeline, and stores the data in a DuckDB analytics database using a star schema design. When the standings API failed, I calculated standings directly from raw game results, demonstrating problem-solving and data engineering fundamentals. The pipeline includes comprehensive data quality validation and delivers insights through an interactive Streamlit dashboard with team performance analytics, player statistics, and playoff brackets. This showcases my skills in API integration, ETL development, SQL database design, data transformation with Python/Pandas, and building production-ready data pipelines with proper error handling and documentation.
@@ -13,19 +23,9 @@ This project is an end-to-end data pipeline that ingests NFL game data from ESPN
 
 ---
 
-### Customer Churn Modelling
-
-This end to end customer churn prediction project analyzes 7,043 telecommunications customers using SQL for data extraction, Python for advanced feature engineering (creating 8 domain-informed features), and machine learning to build a production ready XGBoost classifier achieving 70%+ ROC-AUC score. The project demonstrates systematic model comparison across 5 algorithms, hyperparameter tuning with GridSearchCV, and proper handling of class imbalance through weighted training and stratified sampling. Results translate to actionable business insights with ROI analysis, identifying tenure and contract type as primary churn drivers and recommending targeted retention strategies for high-risk customer segments.
-
-<img src="images/Churn_Model_Comp.png?raw=true"/> <img src="images/churn_BI.png?raw=true"/> <img src="images/churn_ROCcurve.png?raw=true"/>
-
-[View Code on Github](https://github.com/michaelbowen0/Telco_Churn)
-
----
-
 ### Marketing Analysis - Portuguese Bank Data
 
-This project is about approaching a typical problem I would encounter in the working world. The aim is to acurately predict whether a customer will sign up to a long term deposit or not. It is also a perfect dataset to practise using various dataset balancing methods. The data is freely available at https://archive.ics.uci.edu/ml/datasets/bank+marketing. 
+This project is about approaching a typical business case I may encounter. The aim is to acurately predict whether a customer will sign up to a long term deposit or not. It is also a perfect dataset to practise using various dataset balancing methods. The data is freely available at https://archive.ics.uci.edu/ml/datasets/bank+marketing. 
 
 
 
