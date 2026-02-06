@@ -1,9 +1,9 @@
 title: Michael Bowen, MSc # your name (or website title) here
 logo: "/images/IMG_2986.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Recent Data Science MSc Graduate from Liverpool John Moores University. Also holding a BSc in Mathematics from Coventry University. <br>
+  Data Scientist with more than two years of experience in an analyst role, holding a Masters Degree in Data Science and a Bachelors Degree in Mathematics. <br>
 
   <a href="https://www.linkedin.com/in/michaelbowen7/">View My LinkedIn Profile</a> 
   
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 google_analytics: UA-261742247-1 # your Google Analytics tracking ID here
